@@ -7,7 +7,7 @@ Hosted in Netlify -> [nextPage](https://next-page.netlify.app/)
 
 
 ## Starter Template
-Github Repo -> [nextPage-starter](https://github.com/shakilahmedatik/nextPage-starter)
+Github Repo -> [nextPage-starter](https://github.com/Ferdousnayeem/nextPage)
 
 ## API 
 
